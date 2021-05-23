@@ -7,7 +7,8 @@
 <br>
 
 <div align="center">
-![Sandesh's github stats](https://github-readme-stats.vercel.app/api?username=San411&theme=prussian&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&hide=["stars"])
+<img src="https://github-readme-stats.vercel.app/api?username=San411&amp;theme=prussian&amp;show_icons=true&amp;title_color=ffc857&amp;icon_color=8ac926&amp;text_color=daf7dc&amp;hide=[&quot;stars&quot;]" alt="Github stats">
+</img>
 </div>
 
 
