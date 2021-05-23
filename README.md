@@ -1,9 +1,7 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 
-<p align="centre">
-<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=San411&theme=prussian&layout=compact&text_color=daf7dc'>
-<img src = 'https://github.com/San411/github-readme-stats'>
-</a>
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San411&theme=prussian&layout=compact&text_color=daf7dc)](https://github.com/San411/github-readme-stats)
 </p>
 
 <br>
