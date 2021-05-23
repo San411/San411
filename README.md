@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San411&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/San411/github-readme-stats)
 
 
-### <img src ='https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized.gif' width='25px'>Technologies:
+### <img src ='https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized.gif' width='25px' style="border-radius:25px">Technologies:
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg" alt="CPP" width="30" height="30"/>
